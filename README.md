@@ -33,3 +33,20 @@
 ### Web
 
 - [FilmBook](https://github.com/Szymon-Winiecki/FilmBook)
+
+### Mobile
+
+- [plant-care-app](https://github.com/Szymon-Winiecki/plant-care-app)
+
+- [BoardGamesCollector](https://github.com/Szymon-Winiecki/BoardGamesCollector)
+
+- [RPNCalc](https://github.com/Szymon-Winiecki/RPNCalc)
+
+
+### Other
+
+- [3D OpenGL interior designer](https://github.com/maciej-wieczorek/ProjektGKW)
+
+- [BattleshipGame](https://github.com/Szymon-Winiecki/BattleshipGame)
+
+    Server (C++) and GUI client (JS) app for a team version of battleship game that involves voting on the next move.
