@@ -71,6 +71,8 @@
 
 - [FilmBook](https://github.com/Szymon-Winiecki/FilmBook)
 
+    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+    ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
     ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -80,6 +82,7 @@
 - [plant-care-app](https://github.com/Szymon-Winiecki/plant-care-app)
 
     ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+    ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 - [BoardGamesCollector](https://github.com/Szymon-Winiecki/BoardGamesCollector)
 
@@ -107,3 +110,6 @@
     Server (C++) and GUI client (JS) app for a team version of battleship game that involves voting on the next move.
 
     ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![BSD Sockets](https://img.shields.io/badge/BSD_Sockets-Networking-555555?style=for-the-badge)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+    ![NodeGui](https://img.shields.io/badge/NodeGui-43B02A?style=for-the-badge)
