@@ -66,15 +66,41 @@
     ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![wxWidgets](https://img.shields.io/badge/wxWidgets-3C7EBB?style=for-the-badge&logo=wxwidgets&logoColor=white)
 
+- [computed-tomography-scan-simulator](https://github.com/Szymon-Winiecki/computed-tomography-scan-simulator)
+
+    Simulation of CT implementing Radon transform to convert image to sinogram and inverse Radon transform to reconstruct the image.
+
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+    ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+    ![Tkinter](https://img.shields.io/badge/Tkinter-FFB000?style=for-the-badge)
 
 ### Web
 
 - [FilmBook](https://github.com/Szymon-Winiecki/FilmBook)
 
+    A service designed for managing movies and related information. It allows to explore and expand a movie database, rate and review productions and leverage an extended admin panel to manage users, ranks, and permissions.
+
     ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
     ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
     ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+- [user-input-collector](https://github.com/Szymon-Winiecki/bbgnn-user-input-collector)
+
+    Application to collect data about keyboard usage of the users. It was used to build a dataset for research on behavioral biometry with graph neural networks.  
+
+    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+    ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+    ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+- [bikes-app](https://github.com/Szymon-Winiecki/projekt-pw)
+
+    ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+    ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+    ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+    ![MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
 
 
 ### Mobile
