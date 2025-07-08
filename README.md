@@ -6,6 +6,9 @@
 
 - [Network anomaly detection](https://github.com/Szymon-Winiecki/network-anomaly-detection-research)
 
+    Research repository for master's thesis on Anomaly detection in network traffic using autoencoders and clustering. Five autoencoder-based models have been implemented along with multiple network datasets preprocessing and novel cross-validation-inspired algorithm for semi-supervised learning. 
+    The research involved models and methods implementation, hyperparameters tuning, evaluating models' quality, analyze latent space of diffrent AEs and examine impact of combining AEs with clustering method in semi-supervised intrusion detection systems.
+
     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
     ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
     ![PyTorch Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -26,6 +29,8 @@
 
 - [Hip pain triage](https://github.com/Szymon-Winiecki/ER-hip-pain-traige)
 
+    Triage of patients with hip pain in the ER using traditional ML methods (Logistic Regression, SVM, Random Forest) and XGBoost.
+
     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
     ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
@@ -40,13 +45,15 @@
 
 - [Force-directed graph drawing](https://github.com/Szymon-Winiecki/force-directed-graph-drawing)
 
+    Creating clear and aesthetically pleasing visualizations of graphs using physics-based methods. Three algorithms have been implemented along with interactive simulation environment.
+
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
     ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=black)
 
 
-- [Decision support systems](https://github.com/Szymon-Winiecki/iswd-electre-promethee)
+- [holiday rent assistant](https://github.com/Szymon-Winiecki/iswd-electre-promethee)
     
-    Implementation of Promethee I, Promethee II and Electre III methods.
+    Implementation of Promethee I, Promethee II and Electre III decision support methods to facilitate the selection of a holiday apartment for rent.
 
     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
     ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
